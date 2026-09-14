@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Swati07-yadav/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Swati07-yadav/DSA/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Swati07-yadav/DSA/tree/master/0322-coin-change) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Swati07-yadav/DSA/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
