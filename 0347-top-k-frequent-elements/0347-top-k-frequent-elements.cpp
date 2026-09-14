@@ -1,18 +1,26 @@
 class Solution {
 public:
+    typedef pair<int,int> P;
     vector<int> topKFrequent(vector<int>& nums, int k) {
         int n = nums.size();
         unordered_map<int,int> mp;
         for(int i=0; i<n; i++){
             mp[nums[i]]++;
         }
-        vector<int> ans;
-        for(auto& [num,freq] : mp){
-            ans.push_back(num);
+        priority_queue<P,vector<P>,greater<P>> pq; // min heap
+        for(auto it  : mp){
+            int value = it.first;
+            int freq = it.second;
+            pq.push({freq,value});
+            if(pq.size() > k){
+                pq.pop();
+            }
         }
-        sort(ans.begin(),ans.end(),[&](int a, int b){
-            return mp[a]>mp[b];
-        });
-        return vector<int>(ans.begin(),ans.begin()+k);
+        vector<int> result;
+        while(!pq.empty()){
+            result.push_back(pq.top().second);
+            pq.pop();
+        }
+        return result;
     }
 };
