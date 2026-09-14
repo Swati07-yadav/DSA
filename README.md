@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Swati07-yadav/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Swati07-yadav/DSA/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Swati07-yadav/DSA/tree/master/0322-coin-change) |
 ## Dynamic Programming
@@ -25,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Swati07-yadav/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Swati07-yadav/DSA/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Swati07-yadav/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Swati07-yadav/DSA/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
@@ -36,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Swati07-yadav/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Swati07-yadav/DSA/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Swati07-yadav/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Swati07-yadav/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
