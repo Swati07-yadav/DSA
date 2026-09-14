@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Swati07-yadav/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Swati07-yadav/DSA/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/Swati07-yadav/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Swati07-yadav/DSA/tree/master/0494-target-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Swati07-yadav/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Swati07-yadav/DSA/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Swati07-yadav/DSA/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Swati07-yadav/DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -52,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Swati07-yadav/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Swati07-yadav/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
