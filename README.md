@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Swati07-yadav/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Swati07-yadav/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Swati07-yadav/DSA/tree/master/0518-coin-change-ii) |
+| [1092-shortest-common-supersequence](https://github.com/Swati07-yadav/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Swati07-yadav/DSA/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Swati07-yadav/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Swati07-yadav/DSA/tree/master/0125-valid-palindrome) |
+| [1092-shortest-common-supersequence](https://github.com/Swati07-yadav/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Swati07-yadav/DSA/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
@@ -114,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/Swati07-yadav/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Swati07-yadav/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
