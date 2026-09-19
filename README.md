@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Swati07-yadav/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Swati07-yadav/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Swati07-yadav/DSA/tree/master/0347-top-k-frequent-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Swati07-yadav/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Swati07-yadav/DSA/tree/master/0125-valid-palindrome) |
 | [1092-shortest-common-supersequence](https://github.com/Swati07-yadav/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Swati07-yadav/DSA/tree/master/1143-longest-common-subsequence) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Swati07-yadav/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
