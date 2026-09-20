@@ -6,8 +6,7 @@ public:
         for(int i=0;i<n;i++){
             int num = s[i];
             num = abs(num-122);
-            cnt += num * (i+1);
-            cnt += i+1;
+            cnt += (num+1) * (i+1);
         }
         return cnt;
     }
