@@ -2,12 +2,12 @@ class Solution {
 public:
     int reverseDegree(string s) {
         int n = s.length();
-        int cnt=0;
+        int sum = 0;
         for(int i=0;i<n;i++){
-            int num = s[i];
-            num = abs(num-122);
-            cnt += (num+1) * (i+1);
+            char ch = s[i];
+            int reverse = 26-(ch-'a');
+            sum += (i+1)*reverse;
         }
-        return cnt;
+        return sum;
     }
 };
