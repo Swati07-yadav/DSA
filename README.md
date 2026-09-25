@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Swati07-yadav/DSA/tree/master/0066-plus-one) |
+| [2582-pass-the-pillow](https://github.com/Swati07-yadav/DSA/tree/master/2582-pass-the-pillow) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2582-pass-the-pillow](https://github.com/Swati07-yadav/DSA/tree/master/2582-pass-the-pillow) |
 | [3498-reverse-degree-of-a-string](https://github.com/Swati07-yadav/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
