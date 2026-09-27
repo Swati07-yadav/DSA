@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Swati07-yadav/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Swati07-yadav/DSA/tree/master/0069-sqrtx) |
 | [2582-pass-the-pillow](https://github.com/Swati07-yadav/DSA/tree/master/2582-pass-the-pillow) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Swati07-yadav/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Swati07-yadav/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Swati07-yadav/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Swati07-yadav/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Swati07-yadav/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Swati07-yadav/DSA/tree/master/0074-search-a-2d-matrix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Swati07-yadav/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
