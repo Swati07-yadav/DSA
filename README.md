@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Swati07-yadav/DSA/tree/master/0022-generate-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/Swati07-yadav/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0322-coin-change](https://github.com/Swati07-yadav/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Swati07-yadav/DSA/tree/master/0494-target-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Swati07-yadav/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Swati07-yadav/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Swati07-yadav/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Swati07-yadav/DSA/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Swati07-yadav/DSA/tree/master/0132-palindrome-partitioning-ii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Swati07-yadav/DSA/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Swati07-yadav/DSA/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Swati07-yadav/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Swati07-yadav/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Swati07-yadav/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Swati07-yadav/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
