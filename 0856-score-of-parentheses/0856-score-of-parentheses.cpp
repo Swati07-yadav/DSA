@@ -2,24 +2,17 @@ class Solution {
 public:
     int scoreOfParentheses(string s) {
         int n = s.size();
-        stack<int> st;
-        st.push(0);
-        for(char ch : s){
-            if(ch == '('){
-                st.push(0);
-            }
-            else{
-                int inside = st.top();
-                st.pop();
-                int score;
-                if(inside == 0){
-                    score = 1;
-                }else{
-                    score = 2*inside;
+        int depth = 0, score = 0;
+        for(int i=0;i<n;i++){
+            if(s[i] == '('){
+                depth++;
+            }else{
+                depth--;
+                if(s[i-1] == '('){
+                    score += (1 << depth);
                 }
-                st.top() += score;
             }
         }
-        return st.top();
+        return score;
     }
 };
