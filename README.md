@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Swati07-yadav/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Swati07-yadav/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Swati07-yadav/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Swati07-yadav/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swati07-yadav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Swati07-yadav/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Swati07-yadav/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Swati07-yadav/DSA/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Swati07-yadav/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Swati07-yadav/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Swati07-yadav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0856-score-of-parentheses](https://github.com/Swati07-yadav/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Swati07-yadav/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Swati07-yadav/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Swati07-yadav/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
