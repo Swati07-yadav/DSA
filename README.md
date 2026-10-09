@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Swati07-yadav/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Swati07-yadav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Swati07-yadav/DSA/tree/master/0875-koko-eating-bananas) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Swati07-yadav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/Swati07-yadav/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Swati07-yadav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Swati07-yadav/DSA/tree/master/0238-product-of-array-except-self) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Swati07-yadav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/Swati07-yadav/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Backtracking
@@ -279,4 +281,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Swati07-yadav/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Swati07-yadav/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Swati07-yadav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
