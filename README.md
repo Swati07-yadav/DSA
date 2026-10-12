@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Swati07-yadav/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Swati07-yadav/DSA/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/Swati07-yadav/DSA/tree/master/0132-palindrome-partitioning-ii) |
+| [0402-remove-k-digits](https://github.com/Swati07-yadav/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Swati07-yadav/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Swati07-yadav/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Swati07-yadav/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Swati07-yadav/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Swati07-yadav/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swati07-yadav/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0402-remove-k-digits](https://github.com/Swati07-yadav/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Swati07-yadav/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Swati07-yadav/DSA/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Swati07-yadav/DSA/tree/master/0856-score-of-parentheses) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Swati07-yadav/DSA/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Swati07-yadav/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Lifting
 |  |
@@ -312,5 +315,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Swati07-yadav/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Swati07-yadav/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
