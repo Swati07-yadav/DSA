@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Swati07-yadav/DSA/tree/master/0069-sqrtx) |
 | [2582-pass-the-pillow](https://github.com/Swati07-yadav/DSA/tree/master/2582-pass-the-pillow) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Swati07-yadav/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Swati07-yadav/DSA/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Swati07-yadav/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Swati07-yadav/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Lifting
 |  |
 | ------- |
