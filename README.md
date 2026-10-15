@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Swati07-yadav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/Swati07-yadav/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Swati07-yadav/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Swati07-yadav/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Swati07-yadav/DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Swati07-yadav/DSA/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swati07-yadav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Swati07-yadav/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Swati07-yadav/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
@@ -342,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Swati07-yadav/DSA/tree/master/0062-unique-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Swati07-yadav/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Swati07-yadav/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
