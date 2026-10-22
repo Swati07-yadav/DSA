@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Swati07-yadav/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Swati07-yadav/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Swati07-yadav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Swati07-yadav/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/Swati07-yadav/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Swati07-yadav/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Swati07-yadav/DSA/tree/master/0875-koko-eating-bananas) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Swati07-yadav/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Swati07-yadav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Swati07-yadav/DSA/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Swati07-yadav/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1092-shortest-common-supersequence](https://github.com/Swati07-yadav/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Swati07-yadav/DSA/tree/master/1143-longest-common-subsequence) |
 ## Breadth-First Search
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swati07-yadav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Swati07-yadav/DSA/tree/master/0402-remove-k-digits) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Swati07-yadav/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Swati07-yadav/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Swati07-yadav/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Lifting
