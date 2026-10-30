@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Swati07-yadav/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Swati07-yadav/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Swati07-yadav/DSA/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/Swati07-yadav/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Swati07-yadav/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Swati07-yadav/DSA/tree/master/1020-number-of-enclaves) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Swati07-yadav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Swati07-yadav/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Swati07-yadav/DSA/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swati07-yadav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Swati07-yadav/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Swati07-yadav/DSA/tree/master/1020-number-of-enclaves) |
 ## Knapsack Problem
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Swati07-yadav/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Swati07-yadav/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Swati07-yadav/DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Swati07-yadav/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Swati07-yadav/DSA/tree/master/1020-number-of-enclaves) |
 ## Newton's Method
 |  |
