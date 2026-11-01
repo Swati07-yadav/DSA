@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Swati07-yadav/DSA/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Swati07-yadav/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2582-pass-the-pillow](https://github.com/Swati07-yadav/DSA/tree/master/2582-pass-the-pillow) |
+| [2928-distribute-candies-among-children-i](https://github.com/Swati07-yadav/DSA/tree/master/2928-distribute-candies-among-children-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Swati07-yadav/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Swati07-yadav/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2928-distribute-candies-among-children-i](https://github.com/Swati07-yadav/DSA/tree/master/2928-distribute-candies-among-children-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Swati07-yadav/DSA/tree/master/0062-unique-paths) |
+| [2928-distribute-candies-among-children-i](https://github.com/Swati07-yadav/DSA/tree/master/2928-distribute-candies-among-children-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
