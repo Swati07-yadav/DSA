@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Swati07-yadav/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Swati07-yadav/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Swati07-yadav/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Swati07-yadav/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/Swati07-yadav/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Swati07-yadav/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Swati07-yadav/DSA/tree/master/0518-coin-change-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Swati07-yadav/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Swati07-yadav/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Swati07-yadav/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Swati07-yadav/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swati07-yadav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Swati07-yadav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Database
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Swati07-yadav/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Swati07-yadav/DSA/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Swati07-yadav/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Swati07-yadav/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2582-pass-the-pillow](https://github.com/Swati07-yadav/DSA/tree/master/2582-pass-the-pillow) |
 | [2928-distribute-candies-among-children-i](https://github.com/Swati07-yadav/DSA/tree/master/2928-distribute-candies-among-children-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
