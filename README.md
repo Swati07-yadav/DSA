@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Swati07-yadav/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Swati07-yadav/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Swati07-yadav/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Swati07-yadav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Swati07-yadav/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Swati07-yadav/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/Swati07-yadav/DSA/tree/master/0494-target-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Swati07-yadav/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Swati07-yadav/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Swati07-yadav/DSA/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/Swati07-yadav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Swati07-yadav/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Swati07-yadav/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Swati07-yadav/DSA/tree/master/0518-coin-change-ii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Swati07-yadav/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Swati07-yadav/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Swati07-yadav/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/Swati07-yadav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Swati07-yadav/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swati07-yadav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Swati07-yadav/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swati07-yadav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Swati07-yadav/DSA/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Swati07-yadav/DSA/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Swati07-yadav/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Swati07-yadav/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Swati07-yadav/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Swati07-yadav/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
