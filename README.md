@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Swati07-yadav/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Swati07-yadav/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Swati07-yadav/DSA/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Swati07-yadav/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Swati07-yadav/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Swati07-yadav/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/Swati07-yadav/DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swati07-yadav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Swati07-yadav/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Swati07-yadav/DSA/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Swati07-yadav/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Swati07-yadav/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/Swati07-yadav/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Quickselect
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Swati07-yadav/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Swati07-yadav/DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Swati07-yadav/DSA/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Swati07-yadav/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Swati07-yadav/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Swati07-yadav/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Swati07-yadav/DSA/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Swati07-yadav/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Newton's Method
 |  |
 | ------- |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Swati07-yadav/DSA/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swati07-yadav/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Swati07-yadav/DSA/tree/master/1020-number-of-enclaves) |
+| [1267-count-servers-that-communicate](https://github.com/Swati07-yadav/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
