@@ -5,7 +5,7 @@ public:
         for(char ch : s){
             mp[ch]++;
         }
-        priority_queue<pair<int,char>> pq;  // map heap
+        priority_queue<pair<int,char>> pq;  // max heap
         for(auto it : mp){
             pq.push({it.second,it.first});
         }
