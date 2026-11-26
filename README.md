@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/Swati07-yadav/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [2582-pass-the-pillow](https://github.com/Swati07-yadav/DSA/tree/master/2582-pass-the-pillow) |
 | [2928-distribute-candies-among-children-i](https://github.com/Swati07-yadav/DSA/tree/master/2928-distribute-candies-among-children-i) |
+| [3360-stone-removal-game](https://github.com/Swati07-yadav/DSA/tree/master/3360-stone-removal-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Swati07-yadav/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Swati07-yadav/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Swati07-yadav/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Swati07-yadav/DSA/tree/master/0735-asteroid-collision) |
 | [2582-pass-the-pillow](https://github.com/Swati07-yadav/DSA/tree/master/2582-pass-the-pillow) |
+| [3360-stone-removal-game](https://github.com/Swati07-yadav/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Swati07-yadav/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
