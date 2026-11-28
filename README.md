@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Swati07-yadav/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Swati07-yadav/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Swati07-yadav/DSA/tree/master/1020-number-of-enclaves) |
+| [1046-last-stone-weight](https://github.com/Swati07-yadav/DSA/tree/master/1046-last-stone-weight) |
 | [1267-count-servers-that-communicate](https://github.com/Swati07-yadav/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Swati07-yadav/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Swati07-yadav/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Swati07-yadav/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Swati07-yadav/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Swati07-yadav/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1046-last-stone-weight](https://github.com/Swati07-yadav/DSA/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Swati07-yadav/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
 |  |
