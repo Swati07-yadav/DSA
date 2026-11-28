@@ -1,11 +1,12 @@
 class Solution {
 public:
     string frequencySort(string s) {
+        int n = s.size();
         unordered_map<char,int> mp;
-        for(char ch : s){
-            mp[ch]++;
+        for(char c : s){
+            mp[c]++;
         }
-        priority_queue<pair<int,char>> pq;  // max heap
+        priority_queue<pair<int,char>> pq;   //min heap
         for(auto it : mp){
             pq.push({it.second,it.first});
         }
