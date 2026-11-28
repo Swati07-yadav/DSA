@@ -2,7 +2,7 @@ class Solution {
 public:
     int minStoneSum(vector<int>& piles, int k) {
         int n = piles.size();
-        priority_queue<int> pq;
+        priority_queue<int> pq;   // max heap
         int sum = 0;
         for(int i=0;i<n;i++){
             sum += piles[i];
